@@ -1,0 +1,2 @@
+hashbang
+print working directory
