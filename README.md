@@ -1,2 +1,1 @@
-#!/bin/bash
-shell basics
+This is bash program to display Hello World
