@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # System engineering & Devops
 
 Module of **System engineering** and **Devops**, carried out during **Full Stack Software Engineering studies at ALX**
@@ -9,3 +10,10 @@ Module of **System engineering** and **Devops**, carried out during **Full Stack
 
 ## Projects
 All of the following folders are projects done during the studies:
+=======
+# alx-system_engineering-devops
+## Description
+This repository stores all ALX System Engineering Devops projects
+## Contents
+
+>>>>>>> refs/remotes/origin/master
