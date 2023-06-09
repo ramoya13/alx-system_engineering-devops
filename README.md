@@ -4,8 +4,8 @@ Module of **System engineering** and **Devops**, carried out during **Full Stack
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
-* Tested on Ubuntu 14.04 LTS
-* Puppet 3.8
+* Tested on Ubuntu 20.04 LTS
+* Puppet 
 
 ## Projects
 All of the following folders are projects done during the studies:
